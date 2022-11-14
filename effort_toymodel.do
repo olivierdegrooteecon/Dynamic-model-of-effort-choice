@@ -1,7 +1,7 @@
 //////////////
 /*
-Toy model as in De Groote (2022): A Dynamic Model of Effort Choice in High 
-School.
+Toy model as in De Groote, O., 2022. A Dynamic Model of Effort Choice in High 
+School. TSE working paper - 1002.
 
 I simulate data of a 2 period binary school choice model in which students also 
 choose their level of effective effort. In the first period, students decide to 
